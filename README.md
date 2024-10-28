@@ -1,4 +1,4 @@
-# Counter API
+# Count API
 
 This is a simple API that allows you to increment a counter on each request and simultaneously get the current state of the counter as well as the first and last access timestamps. IP addresses and user agents are also stored to prevent abuse.
 
