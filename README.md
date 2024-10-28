@@ -72,7 +72,7 @@ curl http://localhost:5000/v1/count?counter=test
 ```json
 {
   "created_at": "Mon, 28 Oct 2024 10:00:00 GMT",
-  "count": 2,
+  "count": 3,
   "last_access": "Mon, 28 Oct 2024 10:00:10 GMT"
 }
 ````
